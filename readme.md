@@ -66,6 +66,7 @@ Por último si acertamos nos llevará a esta escena en la que deberemos encontra
 
 
 
+![5](https://user-images.githubusercontent.com/107134001/172697091-b593cafe-ccfd-4a1a-8a6d-707251b136f4.jpeg)
 
 
 
