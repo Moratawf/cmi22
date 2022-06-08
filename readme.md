@@ -8,6 +8,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 
 
+
 **Titulo** : 360º de un subsconsciente
 
 **Web:**   (url github.io)
@@ -17,9 +18,10 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 **Resumen** : Este proyecto busca contar de la manera más fidedigna uno de mis sueños, con la intnción de materializar algo tan etéreo como lo es la imaginación.
 **Estilo/género:**  Novela / juego 
 
-**Logotipo** : (insertar imagen y breve justificación, si  tiene) 
+**Logotipo** : 
+![Logo-2](https://user-images.githubusercontent.com/107134001/172685054-99ed7950-0526-4021-8fc7-762aa554ee9b.png)
 
-(insertar imágenes a resolucion de 100px alto)
+
 
 **Resolución:** 800x600px fijo
 
@@ -31,7 +33,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Fecha** : 8/06/2022
 
-**Medios** (donde se tiene presencia relacionada):
+**Medios** 
 
 - Github:https://github.com/Moratawf/moratawf.github.io
 
@@ -78,13 +80,13 @@ Metodología de desarrollo de productos multimedia basado en una metodología de
 
 **Motivación de la propuesta** 
 
-Este  proyecto es interesante porque ... 
+Lo que me llevó a realizar el proyecto sobre este tema fue mi idea de materializar un sueño y hacer que más personas pudiesen ver exactamente lo que yo veo, el hecho de que puedan interactuar con algo que solo estaba en mi mente es como si pudiesen manejar mi mundo onírico.
 
 
 
 **Publico / audiencia**
 
-- Orientado a 
+- Orientado a cualquier tipo de persona, especialmente a los más jóvenes
 
 
 
@@ -104,13 +106,13 @@ Este  proyecto es interesante porque ...
 
 ### Etapa 3: Problemas identificados
 
-(que consideras que no  funciona correctamente y por qué )
+Considero que debería de incluir más animaciones y algomás de personalización en los botones y créditos, por otro lado el personaje no es capaz de cambiar de escena debido a un error, y la barra de sonido tampoco funciona en todas las escenas.
 
 
 
 # 4. Conclusiones 
 
-(explica brevemente tu valoración, problemas que has detectado y que te gustaría hacer o mejorar en el futuro )
+Como conclusión he de decir que fue un proyecto que en un primer momento lo abordé con bastantes ganas, sin embargo el desconocimiento me hizo perderlas ya que eramuy frustrante que no saliesen las cosas. Evidentemente conforme han avanzado las semanas mi nivel con el programa a crecido considerablemente permitiendome moverme con facilidad entre cosas mas sencillas, y reanimando mis ganas. Por otro lado lo que considero que he de mejorar es la estética, que si bien no hay nada que realmente desentone demasiado si que el diseño de botones y créditos es muy mejorable, además de la perspectiva de los fondos.
 
 
 
@@ -128,7 +130,7 @@ Este  proyecto es interesante porque ...
 
 * Musica:  
 * Imágenes: Todas las imágenes están realizadas por mí
-* Tipografía
+* Tipografía Arial
 
 **Herramientas utilizadas**
 
