@@ -45,17 +45,18 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 ### 2.1 Storyboard: 
 
+![1](https://user-images.githubusercontent.com/107134001/172691896-b1170461-c4de-4b44-b90a-4fe03e3bafab.jpeg)![4](https://user-images.githubusercontent.com/107134001/172691902-f5357a28-b227-4b0b-9183-fc2a01f1e5d0.jpeg)
 
+![2](https://user-images.githubusercontent.com/107134001/172691928-3996ac6d-e275-4dd7-9cac-95c61a0f01c9.jpeg)
 
-(narra brevemente lo que sucede en tu proyecto, puedes usar 3-4 imágenes de apoyo)
+![3](https://user-images.githubusercontent.com/107134001/172691946-1f536455-8933-41f2-b051-15d2c5241050.jpeg)
 
+![4](https://user-images.githubusercontent.com/107134001/172691964-0f3331a8-c887-4f4b-8205-b2b8fab75941.jpeg)
 
 
 ### 2.2. Esquema de navegación 
 
 
-
-(imagen con las distintas pantallas de navegación, usa draw.io o cualquier programa de dibujo)
 
 
 
@@ -71,10 +72,8 @@ Metodología de desarrollo de productos multimedia basado en una metodología de
 
 ### Etapa 1: Ideación de proyecto
 
-**Investigación de campo** (propuestas inspiradoras para el proyecto)
-
-- Portfolio [Leonardi Web page](http://www.rleonardi.com/interactive-resume/) para idear cómo organizar el material
-- 
+**Investigación de campo** 
+Numerosas entrevistas y películas de Tim Burton ayudaron a la materialización de un sueño.
 
 
 
@@ -96,12 +95,13 @@ Lo que me llevó a realizar el proyecto sobre este tema fue mi idea de materiali
 
 (qué soluciones has planteado y cómo se han resuelto: juego, galería de fotos, grabación de video, etc.)
 
-- Juego. 
-- Video 
-- Instrucciones y ayuda al usuario 
-- Menús y elementos de navegación (botones)
-- etc.
-
+- Juego. 360º de un subsconsciente es un "sueño interactivo" en el podrás mover al personaje que caminará por el bosque en busca de aventuras o podrá quedarse en la seguridad de su casa, sin embargo para avanzar entre aquellos árboles deberás de reolver los acertijos para llegar a atravesarlo por completo.
+- 
+- Video Los vídeos están dentro de la galería y son un paso por algunos bosques para dar una mayor visión de estos.
+- 
+- Instrucciones y ayuda al usuario. A lo largo de las escenas se muestran carteles muy explícitos sobre que se debe hacer para pasar a la siguiente escena.
+- Menús y elementos de navegación (botones) Hay un menu al que se puede acceder desde cualquier escena con el botón "exit" además desde ahí se puede ir a los créditos, la galería o el inicio. Por otro lado las escenas principales cuentan con controles de volumen, y por último en cada escena que lo requiera se encuentran los botones para ir a la siguiente, ya sea en forma de adivinanza o con una flecha.
+ -Música. Esta es imprescindible si se quiere sumergir al público en una historia, y en esta no es menos, realicé una búsqueda por internet con una melodía que encajase a la perfección con el proyecto hasta dar con ella, una canción tan tétrica como el proyecto.
 
 
 ### Etapa 3: Problemas identificados
@@ -124,11 +124,11 @@ Como conclusión he de decir que fue un proyecto que en un primer momento lo abo
 
 **Artículos y blogs ** 
 
-- Crofts, S., Fox, M., Retsema, A. and Williams, B. (2005) *Podcasting: A new technology in search of viable business models*First Monday, 10(9). https://doi.org/10.5210/fm.v10i9.1273. Recuperado el 8 de abril de 2020 de: https://journals.uic.edu/ojs/index.php/fm/article/view/1273/1193
+Artículo que me inspiró:https://elhorror.com.mx/por-que-las-peliculas-de-tim-burton-tienen-una-estetica-similar-noticias-de-cine/
 
 **Recursos y materiales audiovisuales:**
 
-* Musica:  
+* Musica:  https://www.youtube.com/watch?v=AjqoazPLGLk&ab_channel=MusicFY
 * Imágenes: Todas las imágenes están realizadas por mí
 * Tipografía Arial
 
