@@ -11,7 +11,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Titulo** : 360º de un subsconsciente
 
-**Web:**   (url github.io)
+**Web:** moratawf.github.io/MorataVillegasJoseMaria_360subsconsciente.html
 
 **Autor:**  Morata Villegas José María
 
