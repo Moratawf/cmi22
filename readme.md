@@ -1,4 +1,4 @@
-## (Nombre del proyecto)
+## 360º de un subsconsciente
 
 Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de la Univesidad de Granada
 
@@ -8,38 +8,36 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 
 
-**Titulo** : MI Proyecto(nombre)
+**Titulo** : 360º de un subsconsciente
 
 **Web:**   (url github.io)
 
-**Autor:**  (Nombre apellidos)
+**Autor:**  Morata Villegas José María
 
-**Resumen** : Este proyecto busca contar las hitorias de migrantes jóvenes, siendo ellos mismos los protagonistas. Esta será una compilación de relatos y crónicas de sus experiencias, exponiendo su lucha de identidad y sentido de pertenencia, herencia migratoria, entre otros temas que abrirán un debate del tema.
-
-**Estilo/género:**  Novela / juego / portfolio / documental... etc.
+**Resumen** : Este proyecto busca contar de la manera más fidedigna uno de mis sueños, con la intnción de materializar algo tan etéreo como lo es la imaginación.
+**Estilo/género:**  Novela / juego 
 
 **Logotipo** : (insertar imagen y breve justificación, si  tiene) 
 
 (insertar imágenes a resolucion de 100px alto)
 
-**Resolución:** 800x600px responsivo/o tamaño fijo (indicar la que has aplicado, y si es reescalable)
+**Resolución:** 800x600px fijo
 
-**Probado en:**   (indicar dónde has probado que funciona: ej. Google Chrome / MS Edge... /móviles android )
+**Probado en:**   Google Chrome y Safari
 
-**Tamaño proyecto:** 14MB 
+**Tamaño proyecto:** 14,9MB 
 
 **Licencia** Este proyecto tiene una Licencia CC Reconocimiento Compartir igual (CC BY-SA)
 
-**Fecha** : 14/05/2020
+**Fecha** : 8/06/2022
 
 **Medios** (donde se tiene presencia relacionada):
 
-- Github:
-- Twitter
-- Instagram
+- Github:https://github.com/Moratawf/moratawf.github.io
 
 
-![girl](https://github.com/mgea/cmi20/blob/master/WalkingGirl_front01.png)
+
+
 
 # 2. Memoria del proyecto 
 
@@ -129,18 +127,18 @@ Este  proyecto es interesante porque ...
 **Recursos y materiales audiovisuales:**
 
 * Musica:  
-* Imágenes:  
+* Imágenes: Todas las imágenes están realizadas por mí
 * Tipografía
 
 **Herramientas utilizadas**
 
 - Hippani Animator 5.1
-- 
+- Procreate
 
 
 
-(imagen de la licencia, copiar y pegar aquí la correcta)
+![image](https://user-images.githubusercontent.com/107134001/172683934-e6fb63aa-7a0f-4cd9-8756-eda28161941d.png)
 
-https://creativecommons.org/licenses/?lang=es
 
-Mayo 2020
+
+Junio 2022
