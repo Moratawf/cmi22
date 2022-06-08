@@ -47,11 +47,19 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 ![1](https://user-images.githubusercontent.com/107134001/172691896-b1170461-c4de-4b44-b90a-4fe03e3bafab.jpeg)![4](https://user-images.githubusercontent.com/107134001/172691902-f5357a28-b227-4b0b-9183-fc2a01f1e5d0.jpeg)
 
+El juego tiene una breve presentación con el título y luego pasas a la segunda escena, en ella además de los controles de volumen y de poder pasar a las siguiente escena, se puede ver a la niña (la cual se puede controlar con el teclado) moverse por el jardín de su casa.
+
 ![2](https://user-images.githubusercontent.com/107134001/172691928-3996ac6d-e275-4dd7-9cac-95c61a0f01c9.jpeg)
+
+En la siguiente se puede ver una pregunta que nos dice si queremos volver a casa o seguir explorando el bosque.
 
 ![3](https://user-images.githubusercontent.com/107134001/172691946-1f536455-8933-41f2-b051-15d2c5241050.jpeg)
 
+A continuación se nos muestra un acertijo que deberemos de acertar a la primera si queremos pasar de escena de lo contrario perderemos y volveremos a empezar. 
+
 ![4](https://user-images.githubusercontent.com/107134001/172691964-0f3331a8-c887-4f4b-8205-b2b8fab75941.jpeg)
+
+Por último si acertamos nos llevará a esta escena en la que deberemos encontrar el botón oculto para poder abrir la puerta y escapar del bosque, de hacerlo nos llevará a la escena final y nos dirá que hemos ganado para después mostrarnos los créditos.
 
 
 ### 2.2. Esquema de navegación 
