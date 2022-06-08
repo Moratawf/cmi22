@@ -15,7 +15,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Autor:**  Morata Villegas José María
 
-**Resumen** : Este proyecto busca contar de la manera más fidedigna uno de mis sueños, con la intnción de materializar algo tan etéreo como lo es la imaginación.
+**Resumen** : Este proyecto busca contar de la manera más fidedigna uno de mis sueños, con la intención de materializar algo tan etéreo como lo es la imaginación.
 **Estilo/género:**  Novela / juego 
 
 **Logotipo** : 
